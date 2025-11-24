@@ -1,5 +1,7 @@
 
-## **EXP 6: Development of Python Code Compatible with Multiple AI Tools**
+## **EXP 6: Development of Python Code Compatible with Multiple AI Tools** 
+## **NAME : RAMPRABHU R 
+### ***REG : 212222040129
 
 ### **Experiment**
 
